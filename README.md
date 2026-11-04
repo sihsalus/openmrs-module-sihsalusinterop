@@ -242,6 +242,8 @@ mvn test
 
 Este módulo es parte del proyecto SIH.SALUS del Hospital Santa Clotilde y se desarrolla como trabajo de tesis de Ingeniería Informática.
 
+Se distribuye bajo la [Mozilla Public License 2.0](LICENSE), igual que el resto de SIH Salus.
+
 ## Contacto
 
 - **Hospital**: Hospital Santa Clotilde, Loreto, Perú
